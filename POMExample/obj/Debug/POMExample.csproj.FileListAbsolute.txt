@@ -9,3 +9,15 @@ c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\
 c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\obj\Debug\POMExample.csprojResolveAssemblyReference.cache
 c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\obj\Debug\POMExample.dll
 c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\obj\Debug\POMExample.pdb
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\POMExample.dll
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\POMExample.pdb
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\nunit.framework.dll
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\WebDriver.dll
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\WebDriver.Support.dll
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\nunit.framework.xml
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\WebDriver.xml
+C:\Users\Nirmal\Documents\POM\POMExample\bin\Debug\WebDriver.Support.xml
+C:\Users\Nirmal\Documents\POM\POMExample\obj\Debug\POMExample.csprojAssemblyReference.cache
+C:\Users\Nirmal\Documents\POM\POMExample\obj\Debug\POMExample.csproj.CopyComplete
+C:\Users\Nirmal\Documents\POM\POMExample\obj\Debug\POMExample.dll
+C:\Users\Nirmal\Documents\POM\POMExample\obj\Debug\POMExample.pdb
