@@ -22,6 +22,7 @@ namespace POMExample.PageObjects
         }
 
         [FindsBy(How = How.CssSelector, Using = "#sidebar input[class='s']")]
+        [CacheLookup]
         private IWebElement searchText;
 
         public ResultPage search(string text)
