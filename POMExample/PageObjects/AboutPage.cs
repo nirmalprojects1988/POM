@@ -21,7 +21,9 @@ namespace POMExample.PageObjects
             PageFactory.InitElements(driver, this);
         }
 
+        //added a new line
         [FindsBy(How = How.CssSelector, Using = "#sidebar input[class='s']")]
+        [CacheLookup]
         private IWebElement searchText;
 
         public ResultPage search(string text)
