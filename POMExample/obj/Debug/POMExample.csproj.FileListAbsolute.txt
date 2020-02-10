@@ -1,0 +1,11 @@
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\POMExample.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\POMExample.pdb
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\nunit.framework.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\WebDriver.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\WebDriver.Support.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\nunit.framework.xml
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\WebDriver.xml
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\bin\Debug\WebDriver.Support.xml
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\obj\Debug\POMExample.csprojResolveAssemblyReference.cache
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\obj\Debug\POMExample.dll
+c:\users\eaksoz\documents\visual studio 2017\Projects\POMExample\POMExample\obj\Debug\POMExample.pdb
